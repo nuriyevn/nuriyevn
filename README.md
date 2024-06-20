@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nusrat,  the father of two brilliant kids :)
-- 👀 I’m interested in С++, Python, Android
-- 🌱 I’m currently learning MongoDB, Unity and how to work with a welding iron.
+- 👋 Hi, I’m Nusrat,  the father of two(UPD: 2024 almost three) brilliant kids :)
+- 👀 I’m interested in С++, Python, CryptoTrading Bot
+- 🌱 I’m currently learning CryptoTrading Theory
 - 💞️ I’m looking to collaborate on different projects related to IT-Cluster "Reactor" Luhanshchyna
 - 📫 How to reach me nuriyevn@gmail.com or it.cluster.reactor@gmail.com
 
